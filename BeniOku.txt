@@ -1,2 +1,0 @@
-Not: Kurulacak baðlantý için belirlediðiniz baðlantý bilgilerini Connect.java
-dosyasýnda deðiþtirin.
